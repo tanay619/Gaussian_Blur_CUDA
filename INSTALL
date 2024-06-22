@@ -1,0 +1,4 @@
+git clone <repository_url>
+cd <repository_directory>
+make
+./bin/gaussian_blur data output_folder
